@@ -1,0 +1,15 @@
+{
+  "name": "auto-deploy-e2e-buzaglo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node auto-deploy.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zx": "^7.0.2"
+  }
+}
